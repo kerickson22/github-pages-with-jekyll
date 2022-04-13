@@ -8,7 +8,6 @@ description: > # this means to ignore newlines until "baseurl:"
 
 # social links
 <<<<<<< HEAD
-#linkedin: kerickson22
 github_username:  kerickson22
 
 show_excerpts: true # set to false to remove excerpts on the homepage
